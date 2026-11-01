@@ -11,7 +11,7 @@ const commands = [
     {
         command: "whoami",
         output: [
-            "Web & Android Developer"
+            "Independent Software Developer"
         ]
     },
     {
@@ -24,7 +24,11 @@ const commands = [
             "Kotlin",
             "Python",
             "SQL",
-            "Git"
+            "Git",
+            "C",
+            "C#",
+            "C++",
+            "PHP"
         ]
     },
     {
