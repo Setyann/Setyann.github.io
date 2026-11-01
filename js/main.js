@@ -20,15 +20,9 @@ const commands = [
             "HTML",
             "CSS",
             "JavaScript",
-            "Java",
             "Kotlin",
             "Python",
-            "SQL",
-            "Git",
-            "C",
-            "C#",
-            "C++",
-            "PHP"
+            "SQL"
         ]
     },
     {
