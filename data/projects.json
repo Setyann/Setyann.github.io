@@ -14,8 +14,8 @@
         "status": "Testing",
         "private": false,
         "links": {
-            "demo": "https://setyann.github.io/Restaurant-Platform/?restaurant=demo",
-            "github": "https://github.com/Setyann/Restaurant-Platform",
+            "demo": "https://setyann.github.io/Restaurant-Platform-Site/",
+            "github": null,
             "apk": null
         }
     },
